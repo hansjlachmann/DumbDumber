@@ -1,0 +1,24 @@
+.navbar ul {
+    list-style-type: none;
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+   
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: aquamarine;  
+
+}
+
+.navbar li{
+  float: left;
+}
