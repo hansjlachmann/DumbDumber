@@ -4,8 +4,10 @@ import Home from "./pages/Home.jsx"
 import Roadmap from "./pages/Roadmap.jsx"
 import Stake from "./pages/Stake.jsx"
 import Burn from "./pages/Burn.jsx"
+import Buy from "./pages/Buy.jsx"
 import Tokenholders from "./pages/Tokenholders.jsx"
 import { Route,Routes } from "react-router-dom"
+import './app.css'
 
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
           <Route path="/stake" element={<Stake />} />
           <Route path="/burn" element={<Burn />} />
           <Route path="/tokenholders" element={<Tokenholders />} />
+          <Route path="/buy" element={<Buy />} />
         </Routes>
       </div>
       <Footer/>

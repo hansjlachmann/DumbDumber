@@ -13,6 +13,7 @@ const NavBar = () => {
         <li><Link to="/stake">Stake</Link></li>
         <li><Link to="/burn">Burn</Link></li>
         <li><Link to="/tokenholders">Tokeholders</Link></li>            
+        <li><Link to="/buy">Buy Tokens</Link></li>
       </ul>
     </nav>
   );

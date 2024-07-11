@@ -6,9 +6,8 @@ function Home() {
         <img src={ddLogo} alt="Dumb & Dumber" />
         <p>In remembrance of the great comedy film Dumb & Dumber from 1994 starring Jim Carrey and Jeff Daniels. </p>
         <p>All supply is deposited into ociswap liquidity pool.</p>
-        <p>This is an experimental project of how to turn a DUMB coin into something useful and valuable.
-        Please connect your radix wallet to make a swap</p>
-        
+        <p>This is an experimental project of how to turn a DUMB coin into something useful and valuable.</p>
+                
         </>
     )
 }

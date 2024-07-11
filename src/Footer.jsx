@@ -1,7 +1,7 @@
 function Footer() {
     return(
         <footer>
-            <p>&copy; Your website name</p>
+            <p>&copy; radixdumbdumber.com</p>
         </footer>
     );
 }

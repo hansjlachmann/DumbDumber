@@ -16,6 +16,8 @@
 }
 .navbar a:hover{
   background-color: aquamarine;  
+  color: black;
+  font-weight: bold;
 
 }
 
